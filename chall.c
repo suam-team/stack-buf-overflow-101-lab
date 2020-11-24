@@ -11,6 +11,13 @@ void shell(){
 
 int main(){
         char buf[8];
+        unsigned int x;
+
         gets(buf);
+
+        if (x == 0xdeadbeef) {
+            shell();
+        }
+
         return 0;
 }

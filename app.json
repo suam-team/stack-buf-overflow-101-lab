@@ -3,5 +3,6 @@
     "description": "",
     "repository": "",
     "logo": "https://suam.wtf/favicon-32x32.png",
-    "keywords": ["hacking", "lab", "pwn"]
+    "keywords": ["hacking", "lab", "pwn"],
+    "stack": "container"
 }
