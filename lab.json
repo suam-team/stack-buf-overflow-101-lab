@@ -2,6 +2,6 @@
     "name": "Stack Buffer Overflow 101 Lab",
     "category": "PWN",
     "author": "bongtrop",
-    "flag": "",
-    "detail": ""
+    "flag": "237265834d5d5a8a85db6667378bbce0,f940d2439d16c0a1073677aeb093b2a8,a5dc574f3e46a52866178c79605fe925,5d407d4c125bf2e668c04138dccf0e51ed1f45f09a5feb58cb9caee0386d493ccb42088f5b4077a56ea95b477ce73f3f09821f860ded87cf17f70e94,c59d74b787aba8b557a9ea969c519cd1",
+    "detail": "The very basic stack buffer overflow lab"
 }
