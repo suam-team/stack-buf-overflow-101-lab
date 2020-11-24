@@ -8,7 +8,7 @@ RUN apt-get update && \
 
 WORKDIR /home/ctf
 
-COPY ["chall.c", "start.sh", "./"]
+COPY ["chall.c", "start.sh", "chall.sh", "./"]
 
 RUN gcc chall.c -o chall -fno-stack-protector -z execstack -no-pie
 
