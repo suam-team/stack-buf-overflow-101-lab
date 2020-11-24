@@ -2,4 +2,4 @@
 
 echo $FLAG > ./flag.txt
 
-sudo -u ctf ./websocketd --binary=true --port=$PORT ./chall
+./websocketd --binary=true --port=$PORT ./chall
