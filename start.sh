@@ -1,5 +1,3 @@
 #!/bin/sh
 
-echo $FLAG > ./flag.txt
-
-./websocketd --binary=true --port=$PORT ./chall
+./websocketd --binary=true --port=$PORT ./chall.sh $FLAG
