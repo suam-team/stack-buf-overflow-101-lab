@@ -4,7 +4,7 @@ The very basic stack buffer overflow lab
 
 ## Let Play
 
-Review source code [chall.c](/chall.c) and find a bug. Please hack this lab on your own environment. And then, get a real flag [ws://stack-buf-overflow-101-lab.herokuapp.com/](ws://stack-buf-overflow-101-lab.herokuapp.com/).
+Review source code [chall.c](/chall.c) and find a bug. Please hack this lab on your own environment. And then, get a real flag `ws://stack-buf-overflow-101-lab.herokuapp.com`.
 
 ## WebSocket PWN
 
@@ -58,7 +58,7 @@ $ docker build -t stack-buf-overflow-101-lab .
 $ docker run -d --rm -p 1337:1337 -e PORT=1337 -e FLAG=flag{ILoveU} stack-buf-overflow-101-lab
 ```
 
-Your app should now be running on [ws://localhost:1337](ws://localhost:1337).
+Your app should now be running on `ws://localhost:1337`.
 
 ## Deploying to Heroku
 
