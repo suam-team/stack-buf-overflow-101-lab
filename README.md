@@ -4,7 +4,7 @@ The very basic stack buffer overflow lab
 
 ## Let Play
 
-Review source code [chall.c](/chall.c) and find a bug. Please hack this lab on your own environment. And then, get a real flag `ws://stack-buf-overflow-101-lab.herokuapp.com`.
+Please find a bud in the [chall.c](/chall.c) file. Then, hack this lab on your own environment. Next, get a real flag `ws://stack-buf-overflow-101-lab.herokuapp.com`. Finally, submit flag on [https://lab.suam.wtf/](https://lab.suam.wtf/).
 
 ## WebSocket PWN
 
